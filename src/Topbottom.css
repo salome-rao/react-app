@@ -1,0 +1,25 @@
+.Container {
+   background-color: rgb(255, 255, 255);
+    width:60vw;
+    border-radius: 7px;
+    float: right;
+  margin-top: 3em;
+}
+ol{
+    margin:3em 3em 3em 3em;
+
+    
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+.photo{
+    width:20vw;
+    height:20vh;
+    background-image: url(image1.png);
+    float:left;
+}
+ol li{
+
+ color: rgb(0, 0, 0);  
+}
